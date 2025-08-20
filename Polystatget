@@ -1,0 +1,26 @@
+class Mahasiswa {
+//     #nama;
+
+//     constructor(nama) {
+//         this.#nama = nama;
+//     }
+
+//     get nama() {
+//         return this.#nama.toUpperCase();
+//     }
+
+//     set nama(value) {
+//         if (value.length < 3) {
+//             console.log("Nama Kependekan!");
+//             return;
+//         }
+//         this.#nama = value;
+//     }
+// }
+
+// const mhs = new Mahasiswa("Edi");
+// console.log(mhs.nama);
+
+// mhs.nama = "lo";
+// mhs.nama = "Kunen";
+// console.log(mhs.nama);
