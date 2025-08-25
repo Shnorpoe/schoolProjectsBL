@@ -1,0 +1,39 @@
+Apa yang sudah dipelajari di PBO : 
+
+
+Konsep OOP
+Object Oriented Programming (OOP) adalah cara berpikir dalam
+pemrograman dengan memodelkan hal-hal di dunia nyata sebagai
+objek.
+
+Object
+Objek = kumpulan properti (data) dan method (fungsi) yang saling
+terkait.
+
+Encapsulation
+Menyembunyikan detail internal (properti atau method) dari luar class.
+
+Overriding
+Class anak mengubah perilaku method yang diwarisi dari class induk. Digunakan saat class anak perlu menyesuaikan method dari induknya.
+
+Constructor function
+Constructor function adalah blueprint / template / kerangka untuk
+membuat objek.
+
+Class
+Class function adalah blueprint / template / kerangka untuk membuat objek. Mirip constructor function, tapi lebih rapi dan efisien karena method tidak diduplikasi ke setiap objek
+
+Inheritance
+yaitu ketika satu class bisa mewarisi sifat dari class lain.
+
+Polymorphism
+Kemampuan satu interface (method yang sama) untuk memiliki banyak bentuk perilaku tergantung objek yang menggunakannya.
+
+Static
+Static digunakan untuk menyimpan nilai tetap (konstanta), dan membuat
+fungsi utilitas (helper).
+Setter
+Setter → method khusus untuk mengubah nilai properti (write) dengan validasi atau aturan tertentu.
+Getter
+Getter → method khusus untuk
+mengambil nilai properti (read).
